@@ -7,7 +7,7 @@ export default defineConfig(({ mode }) => {
 
   return {
     plugins: [react()],
-    base: '/analo/', // ⚠️ اسم المستودع على GitHub
+    base: '/analo/',  // ⚠️ ضروري جداً
 
     define: {
       'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
