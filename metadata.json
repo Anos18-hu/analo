@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Data Analysis System",
+  "description": "A comprehensive React application for analyzing student performance data from Excel files. Features include student tracking, subject analysis with charts, and category-based statistics.",
+  "requestFramePermissions": []
+}
